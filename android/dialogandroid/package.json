@@ -1,0 +1,24 @@
+{
+  "name": "react-native-dialog-android",
+  "version": "1.0.0",
+  "description": "react-native android dialog",
+  "main": "index.js",
+  "scripts": {
+    "test": "test dialog-android"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimhuang/react-native-dialog-android.git"
+  },
+  "keywords": [
+    "react-native",
+    "dialog",
+    "android"
+  ],
+  "author": "kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimhuang/react-native-dialog-android/issues"
+  },
+  "homepage": "https://github.com/Kimhuang/react-native-dialog-android#readme"
+}
